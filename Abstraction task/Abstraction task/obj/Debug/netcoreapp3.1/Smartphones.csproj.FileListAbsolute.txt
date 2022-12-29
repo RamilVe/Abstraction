@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Abstraction\Smartphone\bin\Debug\netcoreapp3.1\Smartphones.exe
+C:\Users\User\source\repos\Abstraction\Smartphone\bin\Debug\netcoreapp3.1\Smartphones.deps.json
+C:\Users\User\source\repos\Abstraction\Smartphone\bin\Debug\netcoreapp3.1\Smartphones.runtimeconfig.json
+C:\Users\User\source\repos\Abstraction\Smartphone\bin\Debug\netcoreapp3.1\Smartphones.runtimeconfig.dev.json
+C:\Users\User\source\repos\Abstraction\Smartphone\bin\Debug\netcoreapp3.1\Smartphones.dll
+C:\Users\User\source\repos\Abstraction\Smartphone\bin\Debug\netcoreapp3.1\Smartphones.pdb
+C:\Users\User\source\repos\Abstraction\Smartphone\obj\Debug\netcoreapp3.1\Smartphones.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Abstraction\Smartphone\obj\Debug\netcoreapp3.1\Smartphones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Abstraction\Smartphone\obj\Debug\netcoreapp3.1\Smartphones.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Abstraction\Smartphone\obj\Debug\netcoreapp3.1\Smartphones.AssemblyInfo.cs
+C:\Users\User\source\repos\Abstraction\Smartphone\obj\Debug\netcoreapp3.1\Smartphones.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Abstraction\Smartphone\obj\Debug\netcoreapp3.1\Smartphones.dll
+C:\Users\User\source\repos\Abstraction\Smartphone\obj\Debug\netcoreapp3.1\Smartphones.pdb
+C:\Users\User\source\repos\Abstraction\Smartphone\obj\Debug\netcoreapp3.1\Smartphones.genruntimeconfig.cache

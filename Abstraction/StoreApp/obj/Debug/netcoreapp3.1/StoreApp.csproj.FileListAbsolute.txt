@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Abstraction\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.exe
+C:\Users\User\source\repos\Abstraction\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.deps.json
+C:\Users\User\source\repos\Abstraction\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.runtimeconfig.json
+C:\Users\User\source\repos\Abstraction\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.runtimeconfig.dev.json
+C:\Users\User\source\repos\Abstraction\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.dll
+C:\Users\User\source\repos\Abstraction\StoreApp\bin\Debug\netcoreapp3.1\StoreApp.pdb
+C:\Users\User\source\repos\Abstraction\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Abstraction\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Abstraction\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Abstraction\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.AssemblyInfo.cs
+C:\Users\User\source\repos\Abstraction\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Abstraction\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.dll
+C:\Users\User\source\repos\Abstraction\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.pdb
+C:\Users\User\source\repos\Abstraction\StoreApp\obj\Debug\netcoreapp3.1\StoreApp.genruntimeconfig.cache
